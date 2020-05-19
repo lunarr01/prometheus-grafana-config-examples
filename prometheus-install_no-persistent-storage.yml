@@ -1,0 +1,6 @@
+alertmanager:
+  persistentVolume: #turns off persistent storage for this non-production learning activity
+    enabled: false
+server:
+  persistentVolume: #turns off persistent storage for this non-production learning activity
+    enabled: false
